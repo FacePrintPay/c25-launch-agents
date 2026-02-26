@@ -12,6 +12,6 @@ chmod +x launch_agents.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/consolidation-audit/aikre8tive/scripts/launch_agents.sh
+/data/data/com.termux/files/home/consolidation-audit/master/scripts/launch_agents.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
